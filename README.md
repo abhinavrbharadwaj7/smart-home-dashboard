@@ -44,14 +44,9 @@ This project is a Smart Home Dashboard interface built using HTML, CSS, and Java
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any inquiries or feedback, feel free to open an issue or contact the repository owner.
 
 ---
-
-Feel free to customize this README according to any specific details or instructions you might have.
